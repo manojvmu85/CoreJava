@@ -1,4 +1,4 @@
-package com.capgemini.manoj;
+package com.manoj;
 
 import java.util.ArrayList;
 import java.util.List;
